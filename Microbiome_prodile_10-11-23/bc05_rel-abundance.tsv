@@ -1,0 +1,19 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+1333660	0.8153203381248488	Endozoicomonas atrinae	Endozoicomonas	Endozoicomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria		Bacteria				10197.211468927484
+1698521	0.015536261202985412	Endozoicomonas ascidiicola	Endozoicomonas	Endozoicomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria		Bacteria				194.31201886573857
+1701104	0.10564152037337526	Endozoicomonas acroporae	Endozoicomonas	Endozoicomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria		Bacteria				1321.2584953098044
+305900	0.017455751797973117	Endozoicomonas elysicola	Endozoicomonas	Endozoicomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria		Bacteria				218.31908773724976
+155978	0.0032125205930807247	Acaryochloris marina	Acaryochloris	Acaryochloridaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				40.17899505766062
+28108	0.003130148270181219	Alteromonas macleodii	Alteromonas	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria		Bacteria				39.148764415156506
+2662190	0.002883031301482702	Dulcicalothrix necridiiformans	Dulcicalothrix	Calotrichaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				36.058072487644154
+281120	0.020098846787479408	Candidatus Amoebophilus asiaticus	Candidatus Amoebophilus	Amoebophilaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				251.37627677100497
+91604	0.0014826914957971735	Candidatus Paracaedibacter acanthamoebae	Candidatus Paracaedibacter	Candidatus Paracaedibacteraceae	Holosporales	Alphaproteobacteria	Proteobacteria		Bacteria				18.54402253793525
+1117703	0.0018519396254612689	Novosphingobium aquaticum Glaeser et al. 2013	Novosphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				23.16220889564409
+287	0.0017298187808896211	Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas aeruginosa group	21.63484349258649
+1581557	0.001400329489291598	Candidatus Methylopumilus planktonicus	Candidatus Methylopumilus	Methylophilaceae	Nitrosomonadales	Betaproteobacteria	Proteobacteria		Bacteria				17.513920922570016
+1747	0.001400329489291598	Cutibacterium acnes	Cutibacterium	Propionibacteriaceae	Propionibacteriales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				17.513920922570016
+399579	0.0023064250411861617	Thermogymnomonas acidicola	Thermogymnomonas		Thermoplasmatales	Thermoplasmata	Euryarchaeota	Diaforarchaea group	Archaea				28.846457990115322
+951	0.0033371586138224605	Neorickettsia sennetsu	Neorickettsia	Anaplasmataceae	Rickettsiales	Alphaproteobacteria	Proteobacteria		Bacteria				41.73784278307751
+354585	0.0018125595235681908	Rickettsia gravesii	Rickettsia	Rickettsiaceae	Rickettsiales	Alphaproteobacteria	Proteobacteria		Bacteria			spotted fever group	22.66968196126736
+374515	0.0014003294892864949	Pelagibius litoralis	Pelagibius	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				17.51392092250619
+unassigned	0.0												590.0
