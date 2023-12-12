@@ -1,8 +1,11 @@
+library(RColorBrewer)
 
 ##################################### aes for bar_plot ###########################################
 emu2$species_over_0_2 <- factor(emu2$species_over_0_2, levels = c(unique(emu2$species_over_0_2[emu2$species_over_0_2 != "other"]), "other"))
 
 colors <- brewer.pal(n = length(unique(emu2$species_over_0_2)), name = 'RdYlBu')
+
+species_colors <- brewer.pal(12, "Set3")# define a colour palette woth 8 colours 
 
 plot_style <-
   theme(axis.title.y = element_text(size=20),
@@ -24,4 +27,4 @@ plot_style <-
                    
                    panel.background = element_rect(fill = "lightgrey"), 
                    strip.background = element_rect(fill = "grey"),
-                   strip.text = element_text(color = "black", size = 25))
+                   strip.text = element_text(color = "black", size = 10)) #le titre des cose a coté des graph
